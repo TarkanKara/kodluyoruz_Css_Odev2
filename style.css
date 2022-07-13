@@ -1,0 +1,54 @@
+body {
+    width: 90%;
+    margin: auto;
+}
+
+img {
+    display: block;
+    margin: auto;
+    margin-top: 25px;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+}
+
+#search {
+    background-color: #EEEEEE ;
+    margin: 5px;
+    padding: 5px;
+}
+
+#search input {
+    margin: 2px;
+    padding: 2px;
+}
+
+button {
+    margin: 4px;
+}
+
+.td-1 {
+    width: 40%;
+    background-color:#7EE5DA ;
+}
+
+.td-2 {
+    width: 20%;
+    background-color: #7EE5DA;
+    padding: 10px;
+    margin: 10px;
+}
+
+.td-3 {
+    width: 40%;
+    background-color: #7EE5DA;
+    padding: 10px;
+    margin: 10px;
+}
+
+footer {
+    text-align: center;
+    margin: 20px;
+}
